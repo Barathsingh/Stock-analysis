@@ -1,0 +1,12 @@
+.headingcontainer{
+    display: flex;
+    justify-content: center;
+    color: rgb(43, 43, 43);
+    margin-bottom: 0.7rem;
+}
+
+.heading{
+    margin-top: 0.2rem;
+    border-bottom: 0.2rem solid #ffc400;
+    padding: 1rem;
+}

@@ -1,0 +1,14 @@
+.explorecontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0.7rem;
+}
+
+.subheading{
+    padding: 1rem;
+    margin-top: 0.2rem;
+    color: rgb(47, 47, 47);
+    border-bottom: 0.2rem solid #ffc400;
+    margin-bottom: 0.5rem;
+}

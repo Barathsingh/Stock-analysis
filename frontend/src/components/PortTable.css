@@ -1,0 +1,16 @@
+/* Styles for making the text bold in the table */
+.bold-table .rdt_TableBody .rdt_TableCell {
+  font-weight: bold; /* Makes text bold */
+  font-size: 1.2rem;
+  color: rgb(64, 64, 64);
+}
+
+/* Optional: Make header text bold as well */
+.bold-table .rdt_TableHead .rdt_TableCell {
+  font-weight: bold; /* Makes header text bold */
+  font-size: 2rem;
+}
+
+.optionContainer{
+  display: flex;
+}

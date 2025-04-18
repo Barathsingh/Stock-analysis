@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playwrite+BE+VLG:wght@100..400&display=swap');
+
+.nav{
+    background-color: rgb(49, 49, 49);
+    display: flex;
+    justify-content: space-around;
+    color: #ebebeb;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem !important;
+    padding-left: 0;
+}
+
+.ul li{
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    padding: 0rem;
+}
+
+.ul li:hover{
+    background-color: rgb(26, 26, 26);
+    color: white;
+}
+
+.ul li a {
+    text-decoration: none; 
+    color: #ebebeb; /* Optional: link color */
+    font-size: 1.1rem;
+    padding-top: 2rem !important;
+  }
+
+.logo{
+    align-items: center;
+    padding-top: 0.5rem;
+    font-size: 2.5rem;
+    margin: 0;
+    font-family: 'Bebas Neue';
+    padding: 0;
+    padding-top: 0.27rem;
+    color: #ffc400;
+}
+
+.nav p{
+    font-family: 'Bebas Neue';
+    font-size: 2.3rem;
+    margin: 0;
+    align-items: center;
+    padding-top: 0rem;
+}
+
+
+.username{
+    color: #ffc400;
+}
+
+
+.addpad{
+    padding-top: 0.3rem !important;
+}
+
+.jass{
+    color: #ffc400;
+}

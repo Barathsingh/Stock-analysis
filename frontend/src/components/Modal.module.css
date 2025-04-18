@@ -1,0 +1,13 @@
+.modal-container {
+    position: fixed; /* Ensures the modal stays on top of other content */
+    top: 50%; /* Positions the top of the modal at 50% viewport height */
+    left: 50%; /* Positions the left side of the modal at 50% viewport width */
+    transform: translate(-50%, -50%); /* Centers the modal horizontally and vertically */
+    background-color: rgba(0, 0, 0, 0.5); /* Creates a semi-transparent black background */
+    padding: 20px; /* Adds some padding for content */
+    z-index: 100; /* Ensures the modal is on top of other elements */
+    display: flex; /* Allows centering content vertically (optional) */
+    justify-content: center; /* Centers content horizontally (optional) */
+    align-items: center; /* Centers content vertically (optional) */
+  }
+  
